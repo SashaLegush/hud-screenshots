@@ -1,6 +1,2 @@
-WIP!
-
-
-
-\[Lethal Company HUD](LethalCompanyHUD/lchud.md)
+WIP \[Lethal Company HUD](LethalCompanyHUD/lchud.md)
 
